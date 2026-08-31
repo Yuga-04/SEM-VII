@@ -2,66 +2,82 @@
 
 ### Definition
 
-**Empathy Mapping** is a visual tool used in Design Thinking to organize and understand information collected from users. It helps designers understand the user's **thoughts, feelings, words, and actions**. By looking at these aspects together, designers can develop a deeper understanding of the user's experience, needs, expectations, and problems.
+**Empathy Mapping** is a visual tool used in Design Thinking to organize and understand information collected from users. It summarizes what users **say, think, do, and feel**, helping designers gain a complete understanding of the user's experience.
 
-Empathy Mapping is mainly used during the **Empathize phase** of Design Thinking and helps create a user-centered approach to problem-solving.
+It is mainly used during the **Empathize phase** to understand user needs, emotions, behaviors, challenges, and expectations. This helps designers create more **user-centered solutions**.
 
 ### Components of an Empathy Map
 
-An Empathy Map generally consists of four major sections:
+An Empathy Map consists of four main sections:
 
 1. **Says**
    
-   This represents what the user **says openly** during interviews, discussions, or observations. It includes direct statements, opinions, and important quotes from the user.
+   This represents what the user **says openly** during interviews or discussions. It includes important statements, opinions, and direct quotes.
    
-   **Example:** “This application is very confusing to use.”
+   **Example:** “This app is confusing.”
 
 2. **Thinks**
    
-   This represents what the user **thinks internally** but may not directly express. It includes their concerns, expectations, beliefs, questions, and assumptions.
+   This represents what the user **thinks internally** but may not express openly. It includes their beliefs, concerns, expectations, and thoughts.
    
-   **Example:** “There must be an easier way to complete this task.”
+   **Example:** “There must be an easier way.”
 
 3. **Does**
    
-   This represents the user's **actual actions and behaviors** while using a product or service. It helps designers understand what users really do rather than relying only on what they say.
+   This represents the user's **actual actions and behaviors** while using a product or service.
    
-   **Example:** The user frequently checks an application or asks others for help when facing a problem.
+   **Example:** The user frequently checks the mobile application or asks others for help.
 
 4. **Feels**
    
-   This represents the user's **emotions and attitudes** during the experience. These may include frustration, happiness, excitement, confusion, fear, satisfaction, or disappointment.
+   This represents the user's **emotions and attitudes** during the experience. These may include frustration, happiness, confusion, excitement, or satisfaction.
    
-   **Example:** The user feels frustrated when an application takes too long to respond.
+   **Example:** The user feels frustrated when the application is slow.
 
 ### Purpose of Empathy Mapping
 
-1. **Understand Users Better** – It organizes user information into meaningful categories and helps designers develop a deeper understanding of users.
+1. **Understand Users Better**
+   
+   It organizes user information into meaningful categories and helps designers develop a deeper understanding of users.
 
-2. **Visualize User Experience** – It provides a simple visual representation of what users **say, think, do, and feel**, making their experience easier to understand.
+2. **Visualize User Experience**
+   
+   It provides a clear picture of the user's **emotions, behaviors, thoughts, and experiences**.
 
-3. **Identify User Needs** – It helps identify the **functional, emotional, and social needs** of users.
+3. **Identify User Needs**
+   
+   It helps identify the **functional, emotional, and social needs** of users.
 
-4. **Discover Pain Points** – By studying user thoughts, actions, and emotions, designers can identify frustrations, difficulties, obstacles, and unmet needs.
+4. **Discover Pain Points**
+   
+   It helps identify user **frustrations, obstacles, challenges, and difficulties**.
 
-5. **Support Human-Centered Design** – Empathy Mapping ensures that design decisions are based on **real user experiences and requirements** rather than assumptions.
+5. **Support Human-Centered Design**
+   
+   It ensures that design decisions are based on **actual user experiences** rather than assumptions.
 
-6. **Improve Team Communication** – It creates a common understanding of users among designers, developers, and other team members.
+6. **Improve Team Communication**
+   
+   It creates a shared understanding of users among **designers, developers, managers, and stakeholders**.
 
-7. **Guide Product Development** – The insights obtained from an Empathy Map help teams decide which features, improvements, or solutions should be given priority.
+7. **Guide Product Development**
+   
+   The insights from an empathy map help teams **prioritize features and improvements** according to user requirements.
 
-8. **Generate Better Ideas** – Understanding user problems and experiences provides useful insights for developing creative solutions during the **Ideation phase**.
+8. **Generate Better Ideas**
+   
+   User insights can inspire **creative solutions during the Ideation phase** of Design Thinking.
 
 ### Benefits of Empathy Mapping
 
-- Provides a **clear understanding of users**.
+- Provides a **better understanding of users**.
 - Helps identify **user needs and expectations**.
-- Reveals **pain points and frustrations**.
-- Encourages **user-centered decision-making**.
-- Helps teams develop a **shared understanding** of users.
-- Supports the creation of **better products and services**.
+- Reveals **pain points and challenges**.
+- Supports **user-centered decision-making**.
+- Improves **communication among team members**.
+- Helps develop **better products and services**.
 - Provides useful inputs for **problem definition and ideation**.
 
 ### Conclusion
 
-**Empathy Mapping** is an important Design Thinking tool that helps designers understand users by analyzing what they **say, think, do, and feel**. It reveals user needs, emotions, behaviors, and pain points. Therefore, it supports **human-centered design, better decision-making, effective ideation, and the development of useful and user-friendly solutions**.
+**Empathy Mapping** is an important Design Thinking tool that helps designers understand users through what they **say, think, do, and feel**. It helps identify user needs, emotions, behaviors, and pain points. Therefore, it supports **human-centered design, better decision-making, team collaboration, and the development of effective user-centered solutions**.
