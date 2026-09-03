@@ -115,7 +115,7 @@ There are two main types:
 
 Yes. From your **POM FULL NOTES.pdf**, the two types are **Public Corporations** and **Government Companies**. I’ve extracted them in the **same format and level of detail as your corporation example**, using only the document content.
 
-## 7. Public Corporations
+## 6. Public Corporations
 
 A **public corporation** is wholly owned by the **Government (Central or State)**. It is usually established by a **Special Act of Parliament**. The special statute prescribes its **management pattern, powers, duties and jurisdiction**. Although the entire capital is provided by the Government, it has a **separate legal entity** and enjoys independence in matters such as **appointments and promotions**. 
 
@@ -133,7 +133,7 @@ A **public corporation** is wholly owned by the **Government (Central or State)*
 
 ---
 
-## 8. Government Companies
+## 7. Government Companies
 
 A **government company** is a state enterprise organized in the form of a **Joint Stock Company**. Its share capital is held by the **Central Government**, or partly by the Central Government and partly by one or more State Governments. It is managed by an **elected Board of Directors**, which may include private individuals. The company is accountable to the concerned **ministry or department**, and its annual report is placed before the **Parliament or State Legislature** along with government comments. 
 
@@ -147,7 +147,7 @@ A **government company** is a state enterprise organized in the form of a **Join
 * **Misuse of excessive freedom** cannot be ruled out.
 * Directors are appointed by the Government and may spend more time pleasing political masters and senior government officials, which can result in **inefficient management**. 
 
-## 7. Conclusion
+## 8. Conclusion
 
 Thus, different forms of business organization provide different methods of **ownership, management, raising capital, sharing profits and bearing risk**. The major forms discussed in the PDF are **Sole Proprietorship, Partnership, Corporation, Joint Stock Company and Public Corporation**. Each form has its own merits and demerits, and the appropriate form depends on the nature and requirements of the business.
 
