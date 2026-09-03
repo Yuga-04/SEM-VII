@@ -113,11 +113,39 @@ There are two main types:
 
 ---
 
-## 6. Public Corporation
+Yes. From your **POM FULL NOTES.pdf**, the two types are **Public Corporations** and **Government Companies**. I’ve extracted them in the **same format and level of detail as your corporation example**, using only the document content.
 
-A **Public Corporation** is wholly owned by the **Government**, either at the central or state level. It is usually established through a **Special Act of Parliament**. The special statute specifies its **management pattern, powers, duties and jurisdiction**. 
+## 7. Public Corporations
+
+A **public corporation** is wholly owned by the **Government (Central or State)**. It is usually established by a **Special Act of Parliament**. The special statute prescribes its **management pattern, powers, duties and jurisdiction**. Although the entire capital is provided by the Government, it has a **separate legal entity** and enjoys independence in matters such as **appointments and promotions**. 
+
+### Merits
+
+* Provides **better working conditions** to employees and is expected to be better managed.
+* **Quick decisions** can be made because of the absence of bureaucratic control.
+* Has **more flexibility** compared with departmental organizations.
+* Experienced and capable directors and managers can manage it **more efficiently than government departments**. 
+
+### Demerits
+
+* Any change in the **powers or constitution** of the corporation requires an amendment to the particular Act, which is difficult and time-consuming.
+* Public corporations may have a **monopoly** and, due to lack of competition, may be less interested in adopting new techniques and improving their working. 
 
 ---
+
+## 8. Government Companies
+
+A **government company** is a state enterprise organized in the form of a **Joint Stock Company**. Its share capital is held by the **Central Government**, or partly by the Central Government and partly by one or more State Governments. It is managed by an **elected Board of Directors**, which may include private individuals. The company is accountable to the concerned **ministry or department**, and its annual report is placed before the **Parliament or State Legislature** along with government comments. 
+
+### Merits
+
+* **Easy to form.**
+* Directors are free to take decisions and are **not bound by certain rigid rules and regulations**. 
+
+### Demerits
+
+* **Misuse of excessive freedom** cannot be ruled out.
+* Directors are appointed by the Government and may spend more time pleasing political masters and senior government officials, which can result in **inefficient management**. 
 
 ## 7. Conclusion
 
